@@ -1,0 +1,3 @@
+This is a placeholder for the Blender demonstration file.
+To generate the actual blend file, run create_proximity_shader.py in Blender's scripting workspace.
+After running the script, you can save the file as proximity_demo.blend via File > Save As.
